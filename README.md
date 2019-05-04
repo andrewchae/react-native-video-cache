@@ -12,3 +12,12 @@ React native wrapper on
 - Android: https://github.com/danikula/AndroidVideoCache
 - Others: return what's passed in
 
+### Usage
+
+```js
+import convertToProxyURL from 'react-native-video-cache'
+...
+const localProxiedURL = await convertToProxyURL(originalURL)
+...
+<Video source={{uri: localProxiedURL}} />
+```
