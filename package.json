@@ -1,0 +1,10 @@
+{
+  "name": "react-native-video-cache",
+  "version": "0.0.3",
+  "description": "cache video",
+  "author": "zhigang1992@gmail.com",
+  "homepage": "https://github.com/zhigang1992/react-native-video-cache",
+  "main": "index.js",
+  "license": "MIT",
+  "types": "index.d.ts"
+}
